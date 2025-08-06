@@ -1,0 +1,2 @@
+For first-time use, please unpack the file "Labview2017_32bit_Eng_RT_VISA18.zip", and install it.
+This will install the "Labview 2017 32bit runtime" and "VISA 18.0".
