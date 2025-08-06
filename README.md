@@ -1,7 +1,10 @@
 # DMM PC-TOOL 1900x1012
 A Powerfull DMM Acquiring PC Software.
+
 Software Features & Limitations:
+
 •	Free to Use: All offline functionalities, Terminal when connected via Debug mode.
+
 •	Trial Period: Data acquisition and calibration functions can be used free for 30 minutes per session.
 
 <img width="1902" height="1014" alt="867c95b4b64fc331ce5528e5ba025903" src="https://github.com/user-attachments/assets/705ec6e6-749b-4b62-944d-525c8b8baf3f" />
