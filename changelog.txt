@@ -1,0 +1,5 @@
+2025.08.18-01
+Add "Aging Calculation" function in the "Tools" tab.
+
+2025.07.12-01
+first Version
